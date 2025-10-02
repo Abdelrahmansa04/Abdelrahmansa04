@@ -1,54 +1,45 @@
 # 👋 Hi, I'm Abdelrahman Saeed  
 
-🚀 AI & Data Science Trainee @ DEPI | Full-Stack Developer | Machine Learning Enthusiast  
-
-💡 Passionate about solving real-world problems with data science, AI, and modern web technologies.  
-🌱 Currently learning advanced deep learning & cloud deployment.  
-⚡ Always open to collaborations on exciting AI & web projects.  
+🚀 AI & Data Science Trainee @ Digital Egypt Pioneers Initiative (DEPI)  
+💻 Full-Stack Web Developer | Machine Learning & Deep Learning Enthusiast  
 
 ---
 
-## 🔧 Tech Stack & Tools  
-**Languages:** Python, JavaScript, SQL, PHP  
-**Frameworks & Libraries:** TensorFlow, Keras, Pandas, Scikit-learn, React, Node.js, Express, Laravel  
-**Databases:** MySQL, MongoDB  
-**Other Tools:** Git, Docker, Selenium  
+## 🔧 Skills & Tools  
+- **Programming:** Python, JavaScript, PHP, SQL  
+- **Frameworks & Libraries:** TensorFlow, Keras, Pandas, Scikit-learn, React, Node.js, Express, Laravel  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, Selenium, Matplotlib  
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🚌 [**Bus Reservation System**](https://github.com/YOURUSERNAME/bus-reservation-system)  
-   Full-stack booking platform with payment integration & admin dashboard.  
+- 🚌 **Bus Reservation System**  
+   A full-stack booking platform with landing and reservation pages.  
 
-- 📖 [**Blog Management System**](https://github.com/YOURUSERNAME/blog-management-system)  
-   Laravel-based blog platform with CRUD, authentication & role-based access.  
+- 📖 **Blog Management System**  
+   Laravel-based blog platform built during my NTI full-stack PHP training.  
 
-- 🧠 [**Brain Tumor Classification**](https://github.com/YOURUSERNAME/brain-tumor-classification)  
-   Deep learning model with attention layers for medical image classification.  
+- 🧠 **Brain Tumor Classification**  
+   CNN model with attention layers for classifying brain tumors from MRI scans.  
 
-- 🩻 [**Chest X-Ray Classification**](https://github.com/YOURUSERNAME/chest-xray-cnn)  
-   CNN-based model for classifying X-ray images into Normal, Bacterial, and Viral Pneumonia.  
+- 🩻 **Chest X-Ray Classification**  
+   Deep learning model to classify chest X-rays into Normal, Bacterial Pneumonia, and Viral Pneumonia.  
 
-- 📈 [**Price Prediction Using Data Science**](https://github.com/YOURUSERNAME/price-prediction)  
-   Machine learning project predicting housing prices using regression.  
+- 📈 **Price Prediction Using Data Science**  
+   Machine learning project predicting housing prices using regression techniques.  
+
+- 🎥 **Human Activity Recognition (HAR)**  
+   Camera-based system for recognizing human activities using deep learning.  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmansaeed&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansaeed&layout=compact&theme=radical)  
 
 ---
 
-## 🤝 Connect With Me  
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 🌐 [Portfolio](https://your-portfolio.com)  
-- 📧 Email: your.email@example.com  
-
----
-
-⭐️ *“Code + Data = Impact”* ⭐️
+⭐️ *Always learning, building, and exploring new technologies.*  
