@@ -11,9 +11,9 @@
 I’m a passionate **Computer Science Engineering student** with hands-on experience in **AI, Data Science, and Full-Stack Development**.  
 I enjoy building scalable systems, solving real-world problems, and creating user-friendly applications.  
 
-- 🔹 Skilled in **MERN stack, PHP/Laravel, and MySQL**  
-- 🔹 Experienced in **Machine Learning, Deep Learning (CNNs, Attention Models), and Data Science tools**  
-- 🔹 Strong **teamwork, leadership, and problem-solving** mindset  
+🔹 Skilled in **MERN stack, PHP/Laravel, and MySQL**  
+🔹 Experienced in **Machine Learning, Deep Learning (CNNs, Attention Models), and Data Science tools**  
+🔹 Strong **teamwork, leadership, and problem-solving** mindset  
 
 ---
 
@@ -62,22 +62,7 @@ I enjoy building scalable systems, solving real-world problems, and creating use
 
 ---
 
-## 🏆 Achievements  
 
-- 🥇 **1st Place – Robotics Competition (E-JUST University, Dec 2024)**  
-- 🥈 **2nd Place – Government Taekwondo Tournament (Apr 2020)**  
-- 🥉 **3rd Place – Egypt Team Qualification Tournament (Dec 2019)**  
-
----
-
-## 🌐 Languages  
-
-- 🇪🇬 Arabic: Native  
-- 🇬🇧 English: B2  
-- 🇩🇪 German: A2  
-- 🇯🇵 Japanese: Beginner  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -90,5 +75,4 @@ I enjoy building scalable systems, solving real-world problems, and creating use
 ## 🤝 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/abdelrahman-abdelraouf004)  
-- 🐙 [GitHub](https://github.com/Abdelrahmansa04)  
 - 📧 **abdelrahmansaeed288@gmail.com**  
