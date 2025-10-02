@@ -30,16 +30,9 @@
 - 📈 **Price Prediction Using Data Science**  
    Machine learning project predicting housing prices using regression techniques.  
 
-- 🎥 **Human Activity Recognition (HAR)**  
-   Camera-based system for recognizing human activities using deep learning.  
+
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmansaeed&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansaeed&layout=compact&theme=radical)  
-
----
 
 ⭐️ *Always learning, building, and exploring new technologies.*  
