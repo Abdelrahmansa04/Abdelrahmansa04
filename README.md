@@ -18,35 +18,12 @@ problem-solving skills, collaborative experience, and a genuine passion for inno
 driven to create impactful solutions that enhance usability and deliver real value. 
 
 ---
-
-## 💼 Experience  
-
-**AI & Data Science Trainee – Digital Egypt Pioneers Initiative (DEPI)**  
-*Jun 2025 – Present | Alexandria, Egypt (Hybrid)*  
-- Trained in **Pandas, Scikit-learn, Selenium, ML & DL**.  
-- Built and tested **5+ ML models** with real datasets.  
-- Coordinated a **team of 20+ trainees**, improving project delivery speed by 30%.  
-
-**Full-Stack Web Development Trainee – National Telecommunication Institute (NTI)**  
-*2025*  
-- Learned **HTML, CSS, Bootstrap, JavaScript, MySQL, PHP**.  
-- Completed **5+ projects** with full front-end & back-end integration.  
-- Increased coding efficiency by 20% through reusable components.  
-
-**AI Intern – Mindset**  
-*Aug 2024 – Sep 2024 | Remote*  
-- Trained on **NumPy, Pandas, Matplotlib, TensorFlow, PyTorch**.  
-- Built CNNs with attention layers, achieving **94% accuracy**.  
-- Developed a **medical image classifier (VGG-16 + attention)** with **90%+ accuracy**.  
-
----
-
 ## 🚀 Projects  
 
-- **Blog Management System (Aug 2025)** – Laravel, PHP, MySQL  
+- **Blog Management System** – Laravel, PHP, MySQL  
   CRUD operations, role-based authentication, and responsive UI.  
 
-- **AI Assistant (May–Jun 2025)** – Web-based assistant using n8n  
+- **AI Assistant** – Web-based assistant using n8n  
   Automated **5+ daily tasks**, including voice commands for apps & reminders.  
 
 - **Bus Reservation System** – MERN Stack  
