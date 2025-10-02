@@ -8,12 +8,14 @@
 ---
 
 ## 📝 About Me  
-I’m a passionate **Computer Science Engineering student** with hands-on experience in **AI, Data Science, and Full-Stack Development**.  
-I enjoy building scalable systems, solving real-world problems, and creating user-friendly applications.  
-
-🔹 Skilled in **MERN stack, PHP/Laravel, and MySQL**  
-🔹 Experienced in **Machine Learning, Deep Learning (CNNs, Attention Models), and Data Science tools**  
-🔹 Strong **teamwork, leadership, and problem-solving** mindset  
+I am an aspiring Computer Science Engineer with hands-on experience in full-stack web 
+development and AI. I specialize in building responsive, user-friendly applications using HTML, 
+CSS, Bootstrap, JavaScript, and the MERN stack, along with additional knowledge of MySQL 
+and PHP for server-side development. 
+I have developed multiple projects, including a Bus Reservation System and a Voice-Powered 
+AI Assistant, where I applied my technical expertise to practical challenges. With strong 
+problem-solving skills, collaborative experience, and a genuine passion for innovation, I am 
+driven to create impactful solutions that enhance usability and deliver real value. 
 
 ---
 
